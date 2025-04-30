@@ -4,7 +4,7 @@
 
 Hi there! I'm **R. Vinay Kumar**, a passionate and curious Data Science & AI undergraduate from IIIT Dharwad. I'm on a mission to become a **Big Data Scientist**, building projects that solve real-world problems with data, machine learning, and AI.
 
-- 🔭 Currently working on: **RAG-assisted Explainable Hate Speech Detection**
+- 🔭 Currently working on: **Ayurvedic Multimodal Prakriti Classification**
 - 🌱 Learning: Big Data Tools (Hadoop, Spark), ML/DL, NLP, and Cloud Technologies
 - 👨‍💻 Exploring: Sentiment Analysis, Code-Mixed NLP, Generative AI
 - 📫 How to reach me: [vinaykumarrangoori33@gmail.com](mailto:vinaykumarrangoori33@gmail.com)
@@ -31,10 +31,11 @@ Hi there! I'm **R. Vinay Kumar**, a passionate and curious Data Science & AI und
 
 ## 📚 Featured Projects
 
-- 🔍 **[RAG-assisted Hate Speech Detection](#)** – Explainable AI using Retrieval-Augmented Generation  
-- 🌐 **[Breaking Language Barriers](#)** – Hate speech detection in Telugu-English code-mixed text  
-- 🌱 **[Greenify](#)** – Sustainable weather & carbon tracking app  
-- 💬 **[Chat Buddy](#)** – Student-professor interaction platform  
+- 🔍 **[RAG-assisted Explainable Hate Speech Detection](#)** – Developed an advanced hate speech detection model using Generative AI and semantic search techniques.
+- 🌐 **[Hate Speech Detection in Telugu-English Code-Mixed Text](#)** – Led a team to detect hate speech in code-mixed text, achieving 14th rank in a competitive task.
+- 📰 **[Investigating the Role of Fake Narratives in Spreading Hateful Reactions](#)** – Developed a multi-task model to detect hate speech and fake news.
+- 🌍 **[Translators Comparison: Google Translator vs. AI4 Bharat Translator](#)** – Compared Google Translator with AI4 Bharat’s IndicTrans2 for Indian languages, finding IndicTrans2 more accurate.
+ 
 
 > 📄 Check out my full portfolio for more!
 
