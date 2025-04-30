@@ -37,7 +37,9 @@ Hi there! I'm **R. Vinay Kumar**, a passionate and curious Data Science & AI und
 - 🌍 **[Translators Comparison: Google Translator vs. AI4 Bharat Translator](#)** – Compared Google Translator with AI4 Bharat’s IndicTrans2 for Indian languages, finding IndicTrans2 more accurate.
  
 
-> 📄 Check out my full portfolio for more!
+> 📄 Check out my full portfolio: [vinayrangoori.vercel.app](https://vinayrangoori.vercel.app)
+
+
 
 ---
 
@@ -48,24 +50,5 @@ Hi there! I'm **R. Vinay Kumar**, a passionate and curious Data Science & AI und
 - 📸 [Instagram](https://www.instagram.com/vinay.k_.r)  
 - 💻 [GitHub](https://github.com/Rangoori-Vinay)
 
----
-
-## 📊 GitHub Stats
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangoori-Vinay&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 📈 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangoori-Vinay&langs_count=8&layout=compact&theme=radical)
-
----
-
-## 👁️‍🗨️ Visitor Count
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rangoori-Vinay.Rangoori-Vinay)
-
----
 
 _“Turning data into decisions, and curiosity into impact.”_
