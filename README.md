@@ -1,12 +1,70 @@
-<h1 align="center">Hi 👋, I'm R . Vinay Kumar</h1>
-<h3 align="center">A passionate Big Data Scientist from India</h3>
+# 💻 R. Vinay Kumar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rvinayk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rvinayk_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar-rangoori/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-kumar-rangoori/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vinay.k_.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vinay.k_.r/" height="30" width="40" /></a>
-</p>
+### 🚀 Aspiring Big Data Scientist | B.Tech in Data Science & AI | IIIT Dharwad
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Hi there! I'm **R. Vinay Kumar**, a passionate and curious Data Science & AI undergraduate from IIIT Dharwad. I'm on a mission to become a **Big Data Scientist**, building projects that solve real-world problems with data, machine learning, and AI.
+
+- 🔭 Currently working on: **RAG-assisted Explainable Hate Speech Detection**
+- 🌱 Learning: Big Data Tools (Hadoop, Spark), ML/DL, NLP, and Cloud Technologies
+- 👨‍💻 Exploring: Sentiment Analysis, Code-Mixed NLP, Generative AI
+- 📫 How to reach me: [vinaykumarrangoori33@gmail.com](mailto:vinaykumarrangoori33@gmail.com)
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python, C++, Java, SQL, R, Scala  
+**Tools & Frameworks:** Hadoop, Spark, Git, Tableau, Power BI, Excel  
+**Libraries:** scikit-learn, pandas, NumPy, TensorFlow, PyTorch, HuggingFace Transformers  
+**Other:** GitHub, Linux (Ubuntu), Flutter, Firebase
+
+---
+
+## 📈 Current Goals
+
+- ✅ Master Big Data Ecosystem
+- ✅ Publish research in NLP
+- 🚧 Build impactful capstone projects
+- 🎯 Secure a high-impact data science role with 24+ LPA package
+
+---
+
+## 📚 Featured Projects
+
+- 🔍 **[RAG-assisted Hate Speech Detection](#)** – Explainable AI using Retrieval-Augmented Generation  
+- 🌐 **[Breaking Language Barriers](#)** – Hate speech detection in Telugu-English code-mixed text  
+- 🌱 **[Greenify](#)** – Sustainable weather & carbon tracking app  
+- 💬 **[Chat Buddy](#)** – Student-professor interaction platform  
+
+> 📄 Check out my full portfolio for more!
+
+---
+
+## 🔗 Let's Connect
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/vinay-kumar-rangoori/)  
+- 🐦 [X (Twitter)](https://x.com/Rvinayk_)  
+- 📸 [Instagram](https://www.instagram.com/vinay.k_.r)  
+- 💻 [GitHub](https://github.com/Rangoori-Vinay)
+
+---
+
+## 📊 GitHub Stats
+
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangoori-Vinay&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 📈 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangoori-Vinay&langs_count=8&layout=compact&theme=radical)
+
+---
+
+## 👁️‍🗨️ Visitor Count
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rangoori-Vinay.Rangoori-Vinay)
+
+---
+
+_“Turning data into decisions, and curiosity into impact.”_
