@@ -25,7 +25,7 @@ Hi there! I'm **R. Vinay Kumar**, a passionate and curious Data Science & AI und
 - ✅ Master Big Data Ecosystem
 - ✅ Publish research in NLP
 - 🚧 Build impactful capstone projects
-- 🎯 Secure a high-impact data science role with 24+ LPA package
+- 🎯 Secure a high-impact data science role with good package
 
 ---
 
